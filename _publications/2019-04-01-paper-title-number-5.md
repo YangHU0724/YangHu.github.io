@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "A simple self-adjusting model for correcting the blooming effects in DMSP-OLS nighttime light images"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-04-01-paper-title-number-2
+permalink: /publication/2019-04-01-paper-title-number-5
 excerpt: 
 date: 2019-04-01
 venue: 'Volume: 224'
