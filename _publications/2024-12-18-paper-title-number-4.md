@@ -1,7 +1,7 @@
 ---
 title: "Assessing Electricity Supply Reliability by Detection of Anomalies in Daily Nighttime Light"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-12-18-paper-title-number-4
 excerpt: 
 date: 2024-02-17
